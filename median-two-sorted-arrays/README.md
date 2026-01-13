@@ -1,4 +1,4 @@
-# Problem: Median of Two Sorted Arrays
+# Problem: Median of Two Sorted Arrays -  DIFFICULTY: HARD
 
 ## 1. The Complexity Hint: O(log n)
 Whenever a problem description explicitly asks for a time complexity of **O(log n)** (or similar, like O(log(m+n))), it is a massive hint to use **Binary Search**.
