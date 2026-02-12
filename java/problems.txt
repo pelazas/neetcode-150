@@ -4,11 +4,11 @@ Problems to prepare for the IMC Amsterdam HackerRank 25/26
 Two Sum - X
 Contains Duplicate - X
 Top K Frequent Elements - X
-Product of Array Except Self
-Longest Consecutive Sequence
+Product of Array Except Self - X
+Longest Consecutive Sequence - X
 
 - Sliding Window / Two Pointers
-Longest Substring Without Repeating Characters
+Longest Substring Without Repeating Characters - X
 Minimum Window Substring
 3Sum
 Container With Most Water
