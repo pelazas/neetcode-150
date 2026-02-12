@@ -1,0 +1,38 @@
+Problems to prepare for the IMC Amsterdam HackerRank 25/26
+
+- Arrays / Hashing
+Two Sum
+Contains Duplicate
+Top K Frequent Elements
+Product of Array Except Self
+Longest Consecutive Sequence
+
+- Sliding Window / Two Pointers
+Longest Substring Without Repeating Characters
+Minimum Window Substring
+3Sum
+Container With Most Water
+Permutation in String
+
+- Binary Search
+Binary Search
+Search in Rotated Sorted Array
+Find First and Last Position of Element in Sorted Array
+Koko Eating Bananas
+
+- Heaps / Priority Queue
+Kth Largest Element in an Array
+Merge K Sorted Lists
+Top K Frequent Elements (again, but heap version)
+
+- Graphs (Basic)
+Number of Islands
+Clone Graph
+Course Schedule
+Rotting Oranges
+
+- Greedy
+Jump Game
+Gas Station
+Merge Intervals
+Insert Interval
