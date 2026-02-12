@@ -12,7 +12,7 @@ Longest Substring Without Repeating Characters - X
 Minimum Window Substring - X
 3Sum - X
 Container With Most Water - X
-Permutation in String
+Permutation in String - X
 
 - Binary Search
 Binary Search
