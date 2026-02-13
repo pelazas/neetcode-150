@@ -23,10 +23,10 @@ Koko Eating Bananas - X
 - Heaps / Priority Queue
 Kth Largest Element in an Array - X
 Merge K Sorted Lists - X
-Top K Frequent Elements (again, but heap version)
+Top K Frequent Elements (again, but heap version) - X
 
 - Graphs (Basic)
-Number of Islands
+Number of Islands - X
 Clone Graph
 Course Schedule
 Rotting Oranges
