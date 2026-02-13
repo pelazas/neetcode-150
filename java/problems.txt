@@ -15,7 +15,7 @@ Container With Most Water - X
 Permutation in String - X
 
 - Binary Search
-Binary Search
+Binary Search - X
 Search in Rotated Sorted Array
 Find First and Last Position of Element in Sorted Array
 Koko Eating Bananas
