@@ -16,8 +16,8 @@ Permutation in String - X
 
 - Binary Search
 Binary Search - X
-Search in Rotated Sorted Array
-Find First and Last Position of Element in Sorted Array
+Search in Rotated Sorted Array - X
+Find First and Last Position of Element in Sorted Array - X
 Koko Eating Bananas
 
 - Heaps / Priority Queue
