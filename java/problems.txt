@@ -28,7 +28,7 @@ Top K Frequent Elements (again, but heap version) - X
 - Graphs (Basic)
 Number of Islands - X
 Clone Graph - X
-Course Schedule
+Course Schedule - X
 Rotting Oranges
 
 - Greedy
