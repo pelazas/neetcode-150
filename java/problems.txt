@@ -21,8 +21,8 @@ Find First and Last Position of Element in Sorted Array - X
 Koko Eating Bananas - X
 
 - Heaps / Priority Queue
-Kth Largest Element in an Array
-Merge K Sorted Lists
+Kth Largest Element in an Array - X
+Merge K Sorted Lists - X
 Top K Frequent Elements (again, but heap version)
 
 - Graphs (Basic)
